@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Aastha Portfolio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:#05060a;
+color:#e6f1ff;
+font-family:Arial;
+}
+
+/* HEADER PROFILE */
+.header{
+text-align:center;
+padding:40px 20px;
+background:linear-gradient(90deg,#06111f,#0a1c2f);
+border-bottom:1px solid #00f7ff33;
+}
+
+.header img{
+width:120px;
+height:120px;
+border-radius:50%;
+border:2px solid #00f7ff;
+margin-bottom:10px;
+}
+
+.header h1{
+font-family:'Orbitron';
+color:#00f7ff;
+}
+
+.header p{
+color:#aaa;
+margin-top:5px;
+}
+
+/* CONTAINER */
+.container{
+padding:40px 10%;
+}
+
+/* SECTION TITLE */
+h2{
+color:#00f7ff;
+font-family:'Orbitron';
+margin-bottom:15px;
+border-left:4px solid #00f7ff;
+padding-left:10px;
+}
+
+/* BOX */
+.box{
+background:rgba(255,255,255,0.03);
+border:1px solid #00f7ff22;
+padding:18px;
+border-radius:12px;
+margin-bottom:15px;
+transition:0.3s;
+}
+
+.box:hover{
+transform:translateY(-3px);
+border-color:#00f7ff;
+}
+
+/* GRID */
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:15px;
+}
+
+/* SKILL BAR */
+.bar{
+background:#111;
+height:8px;
+border-radius:20px;
+overflow:hidden;
+margin-top:5px;
+}
+
+.bar div{
+height:100%;
+background:#00f7ff;
+}
+
+/* FOOTER */
+footer{
+text-align:center;
+padding:20px;
+color:#777;
+border-top:1px solid #00f7ff22;
+}
+</style>
+</head>
+
+<body>
+
+<!-- PROFILE -->
+<div class="header">
+<img src="your-photo.jpg">
+<h1>YOUR NAME</h1>
+<p>IT Diploma Student | Cyber Security Learner | Java Developer</p>
+</div>
+
+<div class="container">
+
+<!-- ABOUT -->
+<h2>About Me</h2>
+<div class="box">
+I am an IT Diploma student currently in 3rd year. I have strong interest in Cyber Security, Java Development and modern web technologies.  
+I enjoy learning how systems work and improving my technical skills through practice and projects.
+</div>
+
+<!-- EDUCATION -->
+<h2>Education</h2>
+
+<div class="grid">
+
+<div class="box">
+<b>10th Standard</b><br>
+Year: 2024<br>
+Percentage: 72.93%<br>
+Completed successfully
+</div>
+
+<div class="box">
+<b>Diploma in IT</b><br>
+Government Polytechnic Valsad<br>
+Currently: 3rd Year<br>
+Status: Pursuing
+</div>
+
+</div>
+
+<!-- SKILLS -->
+<h2>Technical Skills</h2>
+
+<div class="box">
+Java
+<div class="bar"><div style="width:85%"></div></div>
+</div>
+
+<div class="box">
+SQL
+<div class="bar"><div style="width:80%"></div></div>
+</div>
+
+<div class="box">
+JDBC
+<div class="bar"><div style="width:70%"></div></div>
+</div>
+
+<div class="box">
+JSP
+<div class="bar"><div style="width:65%"></div></div>
+</div>
+
+<div class="box">
+DBMS
+<div class="bar"><div style="width:75%"></div></div>
+</div>
+
+<div class="box">
+Canva Editing
+<div class="bar"><div style="width:90%"></div></div>
+</div>
+
+<div class="box">
+Cyber Security Basics
+<div class="bar"><div style="width:70%"></div></div>
+</div>
+
+<!-- PROJECTS -->
+<h2>Projects</h2>
+
+<div class="box">
+<b>Login Form Project</b><br>
+Built login/signup page using HTML, CSS and basic JavaScript.
+</div>
+
+<div class="box">
+<b>Portfolio Website</b><br>
+Designed and developed personal portfolio website using HTML and CSS.
+</div>
+
+<!-- CERTIFICATES -->
+<h2>Certificates</h2>
+
+<div class="grid">
+
+<div class="box">IBM Cyber Security Certificate</div>
+<div class="box">HP Certificate</div>
+<div class="box">Tops Technology Training Certificate</div>
+<div class="box">CSS Training – IIT Bombay Online Exam Certificate</div>
+
+</div>
+
+<!-- INTERESTS -->
+<h2>Interests</h2>
+
+<div class="grid">
+
+<div class="box">Cyber Security Investigation</div>
+<div class="box">Graphic Design</div>
+<div class="box">Canva Designing</div>
+<div class="box">Technology Learning</div>
+
+</div>
+
+<!-- LANGUAGES -->
+<h2>Languages</h2>
+
+<div class="grid">
+<div class="box">Gujarati – Native</div>
+<div class="box">English – Intermediate</div>
+<div class="box">Hindi – Fluent</div>
+</div>
+
+<!-- CONTACT -->
+<h2>Contact Details</h2>
+
+<div class="grid">
+
+<div class="box">📧 Email: yourmail@gmail.com</div>
+<div class="box">📱 Mobile: +91 XXXXXXXXXX</div>
+<div class="box">💻 GitHub: github.com/yourprofile</div>
+<div class="box">🔗 LinkedIn: linkedin.com/in/yourprofile</div>
+
+</div>
+
+</div>
+
+<footer>
+© 2026 Cyber Resume Portfolio | IT Diploma Student
+</footer>
+
+</body>
+</html>
