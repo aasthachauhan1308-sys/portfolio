@@ -68,12 +68,10 @@ https://github.com/aasthachauhan1308-sys/portfolio
 
 
 
-# 📧 Contact
+# 🤝 Connect With Me
 
-**Name:** Aastha Chauhan
-
-**GitHub:** https://github.com/aasthachauhan1308-sys
-
+- 💻 **GitHub:** https://github.com/aasthachauhan1308-sys
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aastha-chauhan-45187b330
 
 
 
