@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This portfolio represents my skills, e
 
 Hello! I am Aastha Chauhan, a third-year Diploma student in Information Technology (IT). I have a strong interest in Cyber Security, especially Cyber Crime Investigation, Digital Forensics, and Information Security. I enjoy learning about cyber threats, security tools, and investigative techniques while continuously improving my technical skills through academic and personal projects.
 
-My goal is to build a successful career in the field of Cyber Security Investigation and contribute to protecting digital systems and investigating cyber incidents
+My goal is to build a successful career in the field of Cyber Security Investigation and contribute to protecting digital systems and investigating cyber incidents. 
 
 
 
@@ -39,6 +39,9 @@ My goal is to build a successful career in the field of Cyber Security Investiga
 
 ### 📌 GTU Project
 
+A university project developed as part of my Diploma in Information Technology curriculum, demonstrating practical problem-solving and web development skills.
+
+**GitHub Repository:**  
 https://github.com/aasthachauhan1308-sys/GTU-project-13
 
 
@@ -46,6 +49,9 @@ https://github.com/aasthachauhan1308-sys/GTU-project-13
 
 A cybersecurity project designed to identify, monitor, and manage security vulnerabilities.
 
+
+**GitHub Repository:**  
+https://github.com/aasthachauhan1308-sys/your-repository-name
 
 
 
