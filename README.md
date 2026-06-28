@@ -1,9 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to my personal portfolio website! This portfolio represents my skills, education, projects, and achievements as a Computer Engineering student.
-
-
-
+Welcome to my personal portfolio website! This portfolio represents my skills, education, projects, and achievements as a Diploma in Information Technology student.
 
 # 👩 About Me
 
@@ -42,7 +39,7 @@ My goal is to build a successful career in the field of Cyber Security Investiga
 
 ### 📌 GTU Project
 
-A university project developed as part of my academic curriculum, demonstrating practical problem-solving and web development skills.
+https://github.com/aasthachauhan1308-sys/GTU-project-13
 
 
 ### 📌 Vulnerability Assessment Dashboard
@@ -55,7 +52,7 @@ A cybersecurity project designed to identify, monitor, and manage security vulne
 # 🌐 Live Portfolio
 
 **Website:**
-https://aasthachauhan1308-sys.github.io/portfolio/?utm_source
+https://aasthachauhan1308-sys.github.io/portfolio/
 
 
 
