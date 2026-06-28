@@ -6,8 +6,9 @@ Welcome to my personal portfolio website! This portfolio represents my skills, e
 
 # 👩 About Me
 
-Hello! I am **Aastha Chauhan**, a Computer Engineering student passionate about **Web Development**, **Cyber Security**, and modern technologies. I enjoy creating responsive and user-friendly websites while continuously improving my technical skills through practical projects.
+Hello! I am Aastha Chauhan, a third-year Diploma student in Information Technology (IT). I have a strong interest in Cyber Security, especially Cyber Crime Investigation, Digital Forensics, and Information Security. I enjoy learning about cyber threats, security tools, and investigative techniques while continuously improving my technical skills through academic and personal projects.
 
+My goal is to build a successful career in the field of Cyber Security Investigation and contribute to protecting digital systems and investigating cyber incidents
 
 
 # 💻 Technologies Used
@@ -69,8 +70,7 @@ https://github.com/aasthachauhan1308-sys/portfolio
 
 # 📄 Project Purpose
 
-The purpose of this portfolio is to showcase my technical skills, academic projects, and practical experience. It serves as a professional portfolio for learning, internships, and career opportunities.
-
+This portfolio showcases my academic journey, technical skills, and projects completed during my Diploma in Information Technology. It reflects my continuous learning and my goal of building a professional career in Cyber Security Investigation.
 
 
 # ⭐ Future Improvements
