@@ -37,6 +37,17 @@ My goal is to build a successful career in the field of Cyber Security Investiga
 
 # 🚀 Featured Projects
 
+📌 PhishGuard AI ⭐
+
+An AI-powered browser extension that detects phishing websites in real time using Machine Learning. It analyzes URLs, identifies suspicious websites, and helps users stay protected against phishing attacks.
+
+Tech Stack:
+HTML • CSS • JavaScript • Python • Flask • Machine Learning
+
+GitHub Repository:
+https://github.com/aasthachauhan1308-sys/PhishGuard-AI
+
+
 ### 📌 GTU Project
 
 A university project developed as part of my Diploma in Information Technology curriculum, demonstrating practical problem-solving and web development skills.
